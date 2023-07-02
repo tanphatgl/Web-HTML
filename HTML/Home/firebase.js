@@ -49,7 +49,7 @@ const chartTemp = new Chart("chartTemp", {
     },
     options: {
       scales: {
-        yAxes: [{ ticks: { min: 20, max: 40 } }],
+        // yAxes: [{ ticks: { min: 20, max: 40 } }],
       },
     },
   });
