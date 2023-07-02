@@ -100,7 +100,7 @@ tr:nth-child(even) {
 }
 
 .scrollable-table {
-  height: 600px; /* Set the desired height for the table */
+  height: 530px; /* Set the desired height for the table */
   overflow-y: scroll; /* Enable vertical scrolling */
 }
 
